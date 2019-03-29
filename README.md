@@ -1,6 +1,6 @@
 # mync - My network checker
 
-Features:
+**Features**
 
 - Check if a IP:port is reachable
 
@@ -10,7 +10,7 @@ mync ip:port
 
 # Tips
 
-## Downlaod on Windows
+## Download on Windows
 
 ```
 C:\> [Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
